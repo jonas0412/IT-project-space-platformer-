@@ -1,5 +1,3 @@
-Gestartet wir das Spiel durch : main.py
-
 Der Astronaut Captain JoSi stürzte mit seinem Raumschiff auf dem fernen Planeten Xylar ab. Die karge, graue Landschaft erstreckte sich endlos, doch das war nicht das Schlimmste. Schnell stellte JoSi fest, dass er nicht allein war.
 
 Seltsame Schatten huschten über die Felsen. Plötzlich sprang ein gigantisches Wesen aus dem Nichts auf ihn zu. Mit gezücktem Blaster feuerte JoSi instinktiv und traf das Biest direkt in die Brust. Es fiel röchelnd zu Boden, doch noch bevor JoSi durchatmen konnte, hörte er ein Brüllen hinter sich. Überall krochen Monster aus der Dunkelheit hervor.
